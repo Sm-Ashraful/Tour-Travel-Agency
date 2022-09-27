@@ -681,7 +681,7 @@ $packages = array(
 
             </div>
 
-            <h1 class="credit"> created by <span> iGenServer </span> | all rights reserved! </h1>
+            <h1 class="credit"> created by <span> Sm Ashraful Islam </span> | all rights reserved! </h1>
 
         </section>
 
